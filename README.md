@@ -1,4 +1,4 @@
-<img width="709" height="673" alt="image" src="https://github.com/user-attachments/assets/c8b37d9f-2953-43ef-a9bf-8dcb3b41321a" /><h1 align="center">HR Analytics Dashboard</h1>
+<h1 align="center">HR Analytics Dashboard</h1>
 
 <p align="center">
 An interactive Power BI dashboard for analyzing employee attrition based on various factors like age, role, education, salary, and more.
