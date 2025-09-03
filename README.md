@@ -58,7 +58,7 @@ This project is a fully interactive HR Analytics Dashboard built using Power BI 
 <h2>Folder Structure</h2>
 
 <pre>
-HR-Analytics-Dashboard/
+HR-Analytics-Dashboard
 ├── HR Analytics.pbix
 ├── HR Analytics Image 1.jpg
 ├── HR_Analytics.csv
