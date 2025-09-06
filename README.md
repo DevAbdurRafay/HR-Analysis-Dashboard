@@ -1,5 +1,4 @@
 <h1 align="center">HR Analytics Dashboard</h1>
-
 <p align="center">
 An interactive Power BI dashboard for analyzing employee attrition based on various factors like age, role, education, salary, and more.
 </p>
